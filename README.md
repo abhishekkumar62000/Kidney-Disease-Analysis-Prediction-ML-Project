@@ -2,7 +2,6 @@
 ![Kidney Disease Detection   Prediction ML Project](https://github.com/user-attachments/assets/be633dc5-2d35-4054-be78-784cb0c35347)
 ![Kidney](https://github.com/user-attachments/assets/4a83591b-4447-4044-91b5-074ad20cf00d)
 
-```markdown
 # Kidney Disease Analysis & Prediction ML Project 🚀
 
 Welcome to the **Kidney Disease Analysis & Prediction ML Project**! 🩺  
